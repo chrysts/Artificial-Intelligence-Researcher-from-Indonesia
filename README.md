@@ -36,7 +36,7 @@ The researchers below are grouped based on their expertise and publications (reg
 - [Clara VAnia](https://claravania.github.io/) (C: Amazon || P: New York University | University of Edinburgh)
 - [Dani Yogatama](https://dyogatama.github.io/) (C: Reka | the University of Southern California || P: Deepmind | Carnegie Mellon University)
 - [Derry Tanti Wijaya](https://derrywijaya.github.io/web/) (C: Boston University || P: Carnegie Mellon University)
-- [Fajri Koto] (http://fajrikoto.com/) (C: Mohamed bin Zayed University of Artificial Intelligence || P: University of Melbourne)
+- [Fajri Koto](http://fajrikoto.com/) (C: Mohamed bin Zayed University of Artificial Intelligence || P: University of Melbourne)
 - [Fariz Ikhwantri](https://scholar.google.com/citations?user=vPrwgkMAAAAJ&hl=en) (Tokyo Institute of Technology)
 - [Genta Indra Winata](https://gentawinata.com/) (C: Bloomberg || P: the Hong Kong University of Science and Technology)
 - [Jan Wira Gotama Putra](https://wiragotama.github.io/) (C: Smartnews || P: Tokyo Institute of Technology)
